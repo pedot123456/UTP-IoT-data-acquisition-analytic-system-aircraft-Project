@@ -1,12 +1,6 @@
-streamlit==1.19.0
-altair==4.2.2
-pandas==2.0.3
-plotly==5.24.1
-folium==0.20.0
-streamlit-folium==0.12.0
-<<<<<<< HEAD
-requests==2.32.3
-=======
-requests==2.32.3
->>>>>>> 30438c3 (Fix Streamlit Cloud Dependencies)
-`
+streamlit
+pandas
+plotly
+folium
+streamlit-folium
+requests
